@@ -18,4 +18,5 @@
 
 4\. Fine tune:
 **thin_line**: `point_cloud_thickness` controls the radius in which points are selected to perform principle component analysis for.
+
 **sort_points**: `sorted_point_distance` controls the radius adjacent points are selected for ordering the thinned curve.
